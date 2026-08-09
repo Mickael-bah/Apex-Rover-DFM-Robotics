@@ -155,6 +155,12 @@ Major autonomous states include:
 - AVOID_TURNING
 - PATROL_TURNING
 
+### 🎮 Web Controller Interface
+
+![ESP32 Web Gamepad Interface](./interface_display.jfif)
+
+The ESP32 hosts an onboard HTTP REST server serving a responsive, dark-mode HTML5/CSS gamepad interface. It uses non-blocking JavaScript `fetch()` calls tied to touch events for zero-latency **Hold-to-Drive** safety control in landscape orientation.
+
 ## Manufacturing Workflow
 
 The prototype followed this general engineering workflow:
