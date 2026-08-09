@@ -1,5 +1,8 @@
 # Apex Rover — DFM & Robotics Engineering Project
 ![Apex Rover](./Rover_shot.png)
+<div align="center">
+  <video src="rover_driving.mov" width="100%" controls title="Apex Rover Driving Demo"></video>
+</div>
 
 A custom 4WD robotic rover developed as a hands-on Design for Manufacturing (DFM), mechanical design, fabrication, electronics, and embedded robotics project.
 
